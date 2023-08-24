@@ -84,12 +84,6 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
-    public  void takeBreathe(){
-        Toast.makeText(this, "this is use for testing", Toast.LENGTH_SHORT).show();
-    }
-    public void takeSleep(){
-        Toast.makeText(this, "go to take sleep", Toast.LENGTH_SHORT).show();
-    }
 }
 
 
