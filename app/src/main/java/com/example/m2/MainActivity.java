@@ -87,6 +87,9 @@ public class MainActivity extends AppCompatActivity {
     public  void takeBreath(){
         Toast.makeText(this, "this is for testing", Toast.LENGTH_SHORT).show();
     }
+    public void takeRest(){
+
+    }
 }
 
 
