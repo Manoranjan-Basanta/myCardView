@@ -84,6 +84,9 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+    public  void takeBreath(){
+        Toast.makeText(this, "this is for testing", Toast.LENGTH_SHORT).show();
+    }
 }
 
 
